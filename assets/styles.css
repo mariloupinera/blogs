@@ -1,0 +1,46 @@
+div {
+  text-align: -webkit-center;
+}
+
+.page-header {
+  width: 100%;
+  padding: 50px 0;
+}
+
+.page-header .site-title, .guidelines {
+  color: #3c4143;
+
+}
+
+.page-header .headline {
+  font-size: 12px;
+  font-size: 1.2rem;
+  font-weight: 300;
+  line-height: 1;
+  margin-top: 4px;
+  text-transform: lowercase;
+  color: #98bcb7;
+}
+
+.wrap {
+  background-image: linear-gradient( 45deg, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0.1) 60%, rgba(255,255,255,0.6) 40%, rgba(255,255,255,0.6) 100% ), url('../images/background.jpg');
+  display: -webkit-flex;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 50px 30 40px 0;
+  max-width: 100%;
+}
+
+.row {
+  margin: 0px 30px;
+}
+
+img {
+  width: 100%;
+  color: linear-gradient rgba(0, 0, 0, 0.6);
+  padding: 15px;
+}
+
+.guidelines {
+
+}
