@@ -1,3 +1,15 @@
+html, .container-fluid {
+  background-color: #CAF7E3;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  color: darkseagreen;
+}
+
+.navbar-brand {
+  font-size: 2rem;
+  color: darkcyan;
+}
 div {
   text-align: -webkit-center;
 }
@@ -5,6 +17,7 @@ div {
 .page-header {
   width: 100%;
   padding: 50px 0;
+  color: #3c4143;
 }
 
 .page-header .site-title, .guidelines {
